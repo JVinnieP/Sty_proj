@@ -21,3 +21,6 @@ def contact(request):
 def email(request):
     return render(request, 'email.html', {})
 
+def foot(request):
+    return render(request, 'foot.html', {})
+
