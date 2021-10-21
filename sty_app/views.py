@@ -18,3 +18,6 @@ def services(request):
 def contact(request):
     return render(request, 'contact.html', {})
 
+def email(request):
+    return render(request, 'email.html', {})
+
