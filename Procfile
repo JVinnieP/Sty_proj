@@ -1,1 +1,1 @@
-web: style_proj.wsgi
+web: gunicorn style_proj.wsgi
