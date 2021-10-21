@@ -1,1 +1,1 @@
-web: sty_app.wsgi
+web: sty_proj.wsgi
